@@ -130,6 +130,8 @@ Add the `@routes` Blade directive to your main layout (_before_ your application
 
 > By default, the output of the `@routes` Blade directive includes a list of all your application's routes and their parameters. This route list is included in the HTML of the page and can be viewed by end users. To configure which routes are included in this list, or to show and hide different routes on different pages, see Filtering Routes.
 
+See more: https://github.com/tighten/ziggy
+
 # 5. Connect everything together
 
 Now we have everything installed and ready to be used. We have installed **Laravel 8, Vue 3, Inertia** and **Ziggy**.
