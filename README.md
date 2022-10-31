@@ -42,6 +42,8 @@ Making sure we are in the desired folder we're going to require the Laravel's in
 
 ![](https://i.ibb.co/wWNGdm4/5-Result.png)
 
+See more: https://laravel.com/
+
 # 2. Install Vue.js
 
 ### 2.1 Install: vue
