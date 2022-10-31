@@ -65,6 +65,10 @@ Inertia allows you to create fully client-side rendered, single-page apps, witho
 
 Inertia has no client-side routing, nor does it require an API. Simply build controllers and page views like you've always done!
 
+See the [who is it](https://inertiajs.com/who-is-it-for) for and [how it works](https://inertiajs.com/how-it-works) pages to learn more.
+
+See more: https://inertiajs.com/
+
 ### 3.1 Server-side setup
 
 The first step when installing Inertia is to configure your server-side framework. Inertia ships with official server-side adapters for Laravel and Rails.
